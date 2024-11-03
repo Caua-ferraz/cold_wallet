@@ -1,0 +1,3 @@
+EXAMPLE WALLET
+Private Key: 240b3e6611bd4724aa64ad429ed432a6d07826c74668ad62afb866d5fdad2d32
+Address: 3HHHrrWLtppxmmpqUcMsu5RwTuFb6qN4jhbVUc98eeyW
